@@ -1,7 +1,9 @@
 ### Hey there 👋
 My name is Drew Vlasnik and I'm currently studying
 CS at the University of Chicago.
-![Maroon Logo](/assets/maroon-shield.png)
+<center>
+    <img src="/assets/maroon-shield.png" alt="Logo" style="height: 100px; width:100px;"/>
+</center>
 
 <!--
 **drewvlaz/drewvlaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
