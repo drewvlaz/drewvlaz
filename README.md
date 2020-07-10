@@ -1,4 +1,4 @@
-### What's poppin' 👋
+### What's poppin' 👋🍿
 
 Hey, I'm Drew Vlasnik and I'm currently studying
 CS at the _University of Chicago_.
