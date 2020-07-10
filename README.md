@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+My name is Drew Vlasnik and I'm currently studying
+CS at the University of Chicago. 🌱
 
 <!--
 **drewvlaz/drewvlaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
