@@ -1,7 +1,8 @@
-### What's poppin' <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="18"/>
+### What's poppin' 👋
 
 Hey, I'm Drew Vlasnik and I'm currently studying
 CS at the _University of Chicago_.
+<img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
 <!--
 **drewvlaz/drewvlaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
