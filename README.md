@@ -1,4 +1,5 @@
-### What's poppin' <img src="https://github.com/drewvlaz/drewvlaz/assets/maroon-shield.png" alt="UChicago Logo" width="18"/>
+### What's poppin' <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="18"/>
+
 Hey, I'm Drew Vlasnik and I'm currently studying
 CS at the _University of Chicago_.
 
