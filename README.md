@@ -1,7 +1,7 @@
 ### What's poppin' 👋🍿
 
-Hey, I'm Drew Vlasnik and I'm currently studying
-CS at the _University of Chicago_.
+Hey, I'm Drew Vlasnik and I'm currently studying 
+at the _University of Chicago_.
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
 <!--
