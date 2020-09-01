@@ -10,7 +10,7 @@ and programming, I dedicate much of my time to wrestling which has taught me muc
 and perseverance. Regardless of what I'm doing, I love to confront challenges and I’m always excited to learn.
 
 
-### Connect with me:
+### Social Media:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/drewvlaz)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/drew-vlasnik-5771871b3/)
