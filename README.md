@@ -1,4 +1,4 @@
-### Hey there, I'm Drew 👋
+### Hey there 👋 I'm Drew
 
 I'm an incoming CS student
 at the _University of Chicago_
