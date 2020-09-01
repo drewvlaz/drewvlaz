@@ -1,7 +1,7 @@
 ### Hey there, I'm Drew 👋
 
 I'm an incoming CS student
-at the _University of Chicago_.
+at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
 ### Connect with me:
