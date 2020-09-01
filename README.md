@@ -4,11 +4,11 @@ I'm an incoming CS student
 at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
-I began coding about 3 years ago and have enjoyed it ever since. Currently, I’m focused on improving 
-my web development skills alongside data structure and algorithm knowledge. Beyond the classroom, I 
-dedicate much of my time to wrestling which has fostered my development of leadership and perseverance. 
-Whether it’s behind a computer screen or out on the mat, I love to confront challenges and I’m always 
-excited to learn.
+I began coding about 3 years ago and have enjoyed it ever since. Currently, I’m focused on web development 
+skills while also improving my data structure and algorithm knowledge. Beyond the classroom, I 
+dedicate much of my time to wrestling which has fostered a strong foundation in areas of leadership and 
+perseverance. Whether it’s behind a computer screen or out on the mat, I love to confront challenges 
+and I’m always excited to learn.
 
 
 ### Connect with me:
