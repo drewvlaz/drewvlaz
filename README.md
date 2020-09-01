@@ -4,11 +4,18 @@ I'm an incoming CS student
 at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
+I began coding about 3 years ago and have enjoyed it ever since. Currently, I’m focused on improving 
+my web development skills alongside data structure and algorithm knowledge. Beyond the classroom, I 
+dedicate much of my time to wrestling which has fostered my development of leadership and perseverance. 
+Whether it’s behind a computer screen or out on the mat, I love to confront challenges and I’m always 
+excited to learn.
+
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/drewvlaz)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/drew-vlasnik-5771871b3/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/drewvlaz/)
+[<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/drewvlaz)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/drew-vlasnik-5771871b3/)
+[<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/drewvlaz/)
 
 <br>
 
