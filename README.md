@@ -4,7 +4,7 @@ I'm a first-year CS student
 at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
-I began coding about 3.5 years ago and have enjoyed it ever since. Currently, I’m focused on learning 
+I began coding about four years ago and have enjoyed it ever since. Currently, I’m focused on learning 
 web development while also improving my data structure and algorithm knowledge. Beyond academics 
 and programming, I dedicate much of my time to wrestling which has taught me much about leadership 
 and perseverance. Regardless of what I'm doing, I love to confront challenges and I’m always excited to learn.
