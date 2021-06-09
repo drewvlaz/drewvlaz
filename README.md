@@ -6,8 +6,8 @@ at the _University of Chicago_
 
 I began coding about four years ago and have enjoyed it ever since. Currently, I’m focused on learning 
 web development while also improving my data structure and algorithm knowledge. Beyond academics 
-and programming, I dedicate much of my time to wrestling which has taught me much about leadership 
-and perseverance. Regardless of what I'm doing, I love to confront challenges and I’m always excited to learn.
+and programming, I dedicate much of my time to wrestling. Regardless of what I'm doing, I love to confront 
+challenges and I’m always excited to learn.
 
 
 ### Social Media:
