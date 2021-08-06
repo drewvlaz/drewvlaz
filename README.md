@@ -4,7 +4,7 @@ I'm a second-year CS student
 at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
-Currently, I’m working as a research assistant at (ZeD)[https://zed.uchicago.edu/index.html] focused on analysis of time
+Currently, I’m working as a research assistant at [ZeD](https://zed.uchicago.edu/index.html) focused on analysis of time
 series data.
 
 ### Social Media:
