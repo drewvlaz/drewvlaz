@@ -1,14 +1,11 @@
 ### Hey there 👋 I'm Drew
 
-I'm a first-year CS student
+I'm a second-year CS student
 at the _University of Chicago_
 <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/>
 
-I began coding about four years ago and have enjoyed it ever since. Currently, I’m focused on learning 
-web development while also improving my data structure and algorithm knowledge. Beyond academics 
-and programming, I dedicate much of my time to wrestling. Regardless of what I'm doing, I love to confront 
-challenges and I’m always excited to learn.
-
+Currently, I’m working as a research assistant at (ZeD)[https://zed.uchicago.edu/index.html] focused on analysis of time
+series data.
 
 ### Social Media:
 
