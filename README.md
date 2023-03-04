@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Drew
 
-I'm a second-year at the University of Chicago pursuing a B.S. in Computer Science with a specialization in Machine Learning and a B.A. in Statistics.
+I'm a third-year at the University of Chicago pursuing a B.S. in Computer Science with a specialization in Machine Learning and a B.A. in Statistics.
 <!-- <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/> -->
 
 Currently, I’m working as a research assistant at [ZeD Lab](https://zed.uchicago.edu/index.html) and am focused on developing analytical tools for anomaly detection in time series data.
