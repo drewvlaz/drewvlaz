@@ -3,7 +3,7 @@
 Graduate of the University of Chicago with a B.S. in Computer Science with a specialization in Machine Learning and a B.A. in Statistics.
 <!-- <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/> -->
 
-### Social Media:
+<br>
 
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/drewvlaz) -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/drew-vlasnik-5771871b3/)
