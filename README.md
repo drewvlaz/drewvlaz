@@ -1,14 +1,14 @@
-### Hey there 👋 I'm Drew
+### Hi! I'm Drew.
 
-I'm a graduate of the University of Chicago pursuing a B.S. in Computer Science with a specialization in Machine Learning and a B.A. in Statistics.
+Graduate of the University of Chicago with a B.S. in Computer Science with a specialization in Machine Learning and a B.A. in Statistics.
 <!-- <img src="https://github.com/drewvlaz/drewvlaz/blob/master/assets/maroon-shield.png" alt="UChicago Logo" width="16"/> -->
 
 ### Social Media:
 
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/drewvlaz) -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/drew-vlasnik-5771871b3/)
-[<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/drewvlaz/)
 
+<!--
 <br>
 
 ### Languages and Tools:
@@ -21,10 +21,12 @@ I'm a graduate of the University of Chicago pursuing a B.S. in Computer Science 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+-->
 
 <!--
 **drewvlaz/drewvlaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
